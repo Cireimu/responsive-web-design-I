@@ -218,6 +218,9 @@ header .logo {
   flex-flow: row wrap;
   justify-content: center;
   align-content: space-around;
+  margin-left: 25%;
+  width: 50%;
+  border-bottom: 1px solid black;
 }
 
 .cta .cta-text {
@@ -250,6 +253,7 @@ header .logo {
     flex-flow: row wrap;
     justify-content: center;
     align-content: space-between;
+    
 }
 
 .main-content .text-content .text-content-product{
