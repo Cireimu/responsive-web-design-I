@@ -258,9 +258,9 @@ header .logo {
 }
 
 .main-content .text-content {
-  width: 25%;
+   width: 400px;
     margin-right: 34px;
-    align-content: space-between;
+    align-content: center;
   }
 
 
